@@ -45,14 +45,6 @@ Frontend Developer | React • Next.js • TypeScript • Building Scalable Web 
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahharoon-dev&show_icons=true&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahharoon-dev" />
-</p>
-
----
-
 ### 🧠 Currently Learning
 - Backend architecture (Node.js & Express)
 - Database design (MongoDB / SQL)
