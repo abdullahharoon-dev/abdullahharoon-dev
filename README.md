@@ -33,7 +33,7 @@ Frontend Developer | React • Next.js • TypeScript • Building Scalable Web 
 ### 🚀 Featured Projects
 <p align="center">
 
-<a href="https://github.com/abdullahharoon-dev/property-app">
+<a href="https://github.com/abdullahharoon-dev/Twitter-Clone">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahharoon-dev&repo=property-app" />
 </a>
 
