@@ -30,21 +30,6 @@ Frontend Developer | React • Next.js • TypeScript • Building Scalable Web 
 
 ---
 
-### 🚀 Featured Projects
-<p align="center">
-
-<a href="https://github.com/abdullahharoon-dev/Twitter-Clone">
-  <img src="" />
-</a>
-
-<a href="https://github.com/abdullahharoon-dev/dashboard-ui">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahharoon-dev&repo=dashboard-ui" />
-</a>
-
-</p>
-
----
-
 ### 🧠 Currently Learning
 - Backend architecture (Node.js & Express)
 - Database design (MongoDB / SQL)
